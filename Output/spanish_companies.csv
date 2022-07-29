@@ -1,0 +1,154 @@
+,name,city,office_number,address,latitude,longitude
+0,e-contratos,Valencia,1,"Periodista Azzati, 5. 3, 6B",39.469301,-0.377068
+1,Modo Marketing,Valencia,1,,39.64073,-0.421944
+2,Efebege,Valencia,1,"General Barroso, 66",39.4502107,-0.3924646
+3,Feasa Valencia,Valencia,1,Cami Vera SN,37.2103,-1.85761
+4,DOMODESK,Valencia,1,C/Alqueria de Benlloch 24,39.4612679,-0.3983456
+5,DOMODESK,Madrid,1,C/Arroyo de Fontarron 53,40.4033217,-3.6510254
+7,Brightcove,Barcelona,1,Avenida Diagonal 640,41.3939,2.14804
+8,eyeOS,Barcelona,1,La Rambla 140 4C,41.3854855,2.1702872
+9,Genoom,Barcelona,1,Gran Capitan 2-4,41.36719,2.06833
+10,]project-open[,Barcelona,1,"Ronda de Sant Antonã, 51, 1o 2a",41.383182,2.163697
+11,Starfish Community Group,Barcelona,1,"Major de Sarria 11, 2-1",41.387917,2.169919
+12,Trovit,Barcelona,1,"Diagonal 601, 9ª",41.388769,2.1299487
+13,BMAT,Barcelona,1,Carrer de Llacuna 162,41.406335,2.192023
+14,Splendia,Barcelona,1,"2-4, Rambla de Catalunya",41.38756,2.16796
+15,Friend2Friend,Barcelona,1,"RossellÃ³, 25 Baixos 2a",41.39023,2.1423
+16,Futurlink,Barcelona,1,Passeig de Gracia 49,41.396553,2.189241
+17,Wuapi,Barcelona,1,,41.387917,2.169919
+18,Aedgency,Barcelona,1,World Trade Center,41.37227,2.17917
+19,Valoris,Barcelona,1,"Av. Diagonal 453 bis, 4",41.38804,2.12562
+20,vLex,Barcelona,1,Consell de Cent 334,41.392852,2.168021
+21,Jobisjob,Barcelona,1,"Avda. Alcalde Barnils, 64 - 68",41.487094,2.07732
+22,GeoMe,Barcelona,1,"Rambla de Catalunya 77, 1B",41.387411,2.168518
+23,Q-go,Madrid,1,Edificio Lexington,40.49969,-3.66062
+24,Q-go,Barcelona,1,C/Angel Guimera 22,41.396544,2.132385
+25,ipsojobs,Barcelona,1,"Pi i Margall, 7",41.406248,2.163194
+26,MEDDIA,Barcelona,1,Av. Diagonal 237,41.4018094,2.1815648
+27,Nuroa,Barcelona,1,Carrer de Bailen 7,41.3916792,2.1775706
+28,Festuc,Barcelona,1,,41.387917,2.169919
+29,Qajack,Barcelona,1,Passatge de la Pau 10 Bis (1-2),41.378,2.17772
+30,Bermi Labs,Barcelona,1,Passeig del Callao,41.538143,2.452718
+31,Synerquia,Barcelona,1,Via Laietana 36 1 3,41.38578,2.17677
+33,Softonic,Madrid,1,"Paseo de la Castellana , 180 1Âª planta",40.46323,-3.69012
+34,3scale,Barcelona,1,"C/Napols 187, 8",41.406335,2.192023
+36,Softonic,Madrid,1,"Paseo de la Castellana , 180 1Âª planta",40.46323,-3.69012
+37,3scale,Barcelona,1,"C/Napols 187, 8",41.406335,2.192023
+38,Widgadget,Barcelona,1,184 rossello at 1,41.392701,2.156538
+39,Abiquo,Barcelona,1,Avinguda Diagonal 435bis,41.41011,2.21726
+40,Vertical Social Networks,Barcelona,1,,41.41259,2.143797
+41,Qapacity,Barcelona,1,91 Bruc,41.3953856,2.1681311
+42,Tractis,Barcelona,1,"Carrer Sant Miquel 122, 5Âº-3Âª",41.3762002,2.1897317
+43,Neurotic,Barcelona,1,C/Ortigosa 14,41.3887383,2.1756189
+44,doonde,Barcelona,1,Llacuna 162,41.4063346,2.1920231
+45,Striker Manager,Barcelona,1,Llacuna 162,41.4063346,2.1920231
+46,Tengaged,Barcelona,1,C/Pedrell,41.4241228,2.1634249
+47,NTRglobal,Barcelona,1,Diagonal Litoral,41.38588,2.19507
+48,Fotohoo,Barcelona,1,,41.387917,2.1699187
+49,Central Reservations,Barcelona,1,Passeig d'Amunt 7,41.40994,2.15924
+50,Intergrid,Barcelona,1,Carrer d'en Roig,41.3806494,2.1687187
+51,TravelCLICK,Barcelona,1,,41.3850639,2.1734035
+52,eFans,Barcelona,1,Parc InnovaciÃ³ La Salle,41.3775,2.17858
+53,Mobiquus,Barcelona,1,,41.4322413,2.163444
+54,Production Media Network,Barcelona,1,Moll de Barcelona,41.37332,2.17753
+55,Doctoralia,Barcelona,1,,41.387917,2.1699187
+56,Fiabee,Barcelona,1,,41.4320885,2.1429029
+57,Sowre,Barcelona,1,Muntaner 231,41.3943671,2.1491951
+58,Sowre,Madrid,1,"guzman el bueno, 133",40.4431637,-3.7125615
+59,Openbravo,Barcelona,1,Pau Claris 138,41.3935324,2.1660785
+60,UserZoom,Barcelona,1,Av. Diagonal 419 3º 2ª,41.40552,2.19205
+61,illuminate Solutions,Barcelona,1,"Mallorca 318, Principal 2a",41.39775,2.16832
+62,mobifriends,Barcelona,1,Albigesos 25-27 Bajos Ext.,41.41076,2.15085
+63,*faircompanies,Barcelona,1,"Carrer Escudellers Blancs 7, 2",41.3803265,2.1762262
+64,quimica_visual,Barcelona,1,,41.3723033,2.1560753
+65,Veeva,Barcelona,1,Avinguda Diagonal 420,41.39785,2.16381
+66,U-Play Studios,Barcelona,1,C/Liacuna 162-164,41.4063346,2.1920231
+67,Iris Experience,Barcelona,1,186 RossellÃ³,41.3927014,2.156538
+68,iContainers,Barcelona,1,Diputació 297,41.3763043,2.1752709
+69,ERA Biotech,Barcelona,1,"Parc CientÃ­fic de Barcelona,",41.32489,2.09683
+71,SEPMAG Technologies,Barcelona,1,CENT. Parc Technologic del Valles,41.43896,2.21797
+72,Readspeaker,Barcelona,1,"Pl. Catalunya 9,1a",41.43228,2.2165
+73,Teambox,Barcelona,1,Ronda Universitat 31,41.4063346,2.1920231
+75,Google,Madrid,1,Torre Picasso,40.45007,-3.6928
+76,Truphone,Madrid,1,"Gran Via, 6. 4th floor",40.41936,-3.69792
+77,Fon,Madrid,1,Calle Quintanavides 15,40.530724,-3.632687
+78,Buongiorno,Madrid,1,Calle Javier Ferrero 13-15,40.4487974,-3.6697641
+79,Swotti,Madrid,1,,40.416741,-3.70325
+80,AsesorSeguros,Madrid,1,,40.497716,-3.647842
+81,Allopass,Madrid,1,"VelÃ¡zquez 12, 7-8 planta",40.42022,-3.70196
+82,eRepublik,Madrid,1,Almagro 22,40.43094,-3.6952896
+83,Spotify,Madrid,1,"Eloy Gonzalo, 27, 6Âº",40.43473,-3.70044
+84,NotePub,Madrid,1,,40.416741,-3.70325
+86,FeedzZ,Madrid,1,"Totana 2,3d",40.4722272,-3.6532523
+87,Just Landed,Madrid,1,"Calle Maestro Lasalle, 36",40.40348,-3.69672
+88,Q-go,Madrid,1,Edificio Lexington,40.49969,-3.66062
+89,Q-go,Barcelona,1,C/Angel Guimera 22,41.396544,2.132385
+90,Pixelnews,Madrid,1,"Calle Alonso Heredia, 4  2ÂºE",40.43516,-3.67339
+91,Next Limit,Madrid,1,Ãngel Cavero 2,40.455219,-3.650703
+92,Veedia,Madrid,1,Calle Toronga 23,40.456586,-3.647013
+93,Cyloop,Madrid,1,Avda. de Bruselas 38-B 4,40.5288449,-3.6429907
+94,Solaiemes,Madrid,1,Av/ General Fanjul,40.382338,-3.773844
+95,YouLynx,Madrid,1,"Sor Angela de la Cruz, 2 - 14th floor",40.53955,-3.63295
+96,Videoplaza,Madrid,1,Forum Business Center c/ Capitán Haya,40.4596242,-3.6923285
+97,AtelMedia,Madrid,1,,40.416741,-3.70325
+98,Digital Assets Deployment,Madrid,1,Doctor Castelo 10,40.42046,-3.678121
+99,Daily Flat Rental,Madrid,1,Lavapies 26 1A,40.412323,-3.703248
+101,Softonic,Madrid,1,"Paseo de la Castellana , 180 1Âª planta",40.46323,-3.69012
+102,Yerbabuena Software,Madrid,1,"Alessandro Volta 2, Oficina 18",40.43647,-3.68161
+103,Daily Flat Rental,Madrid,1,Lavapies 26 1A,40.412323,-3.703248
+105,Softonic,Madrid,1,"Paseo de la Castellana , 180 1Âª planta",40.46323,-3.69012
+106,Yerbabuena Software,Madrid,1,"Alessandro Volta 2, Oficina 18",40.43647,-3.68161
+107,Adoos,Madrid,1,"Calle Luis Garcia 5, 1 E",40.432883,-3.8166758
+108,doctor SIM,Madrid,1,Serrano 216,40.45205,-3.68087
+109,Wysiwyg,Madrid,1,Calle Aranjuez 7,40.4494619,-3.7077788
+110,metoCube,Madrid,1,Doctor Castelo 10,40.4204601,-3.6781213
+111,net-m,Madrid,1,"Gran Via 6, 4e",40.41936,-3.69792
+112,pomeloTV,Madrid,1,"Marques de Monteagudo,18",40.4367771,-3.6685036
+113,MediBANK,Madrid,1,"Gobelas, 17",40.4718534,-3.8203307
+114,Meytel,Madrid,1,Villamiel de CÃ¡ceres 13,40.4511364,-3.6096649
+116,Busuu,Madrid,1,"Calle Columela 2, 1D",40.4225487,-3.6830316
+117,tarifas24,Madrid,1,,40.4304536,-3.7105118
+118,Publicadigital,Madrid,1,"C/ General DÃ­az Porlier 47, Bajo D",40.4291944,-3.6768945
+119,Nayatek,Madrid,1,"Camino Cerro de los Gamos 1, Edif 1",40.46478,-3.80899
+120,Entropy Computational Services,Madrid,1,"C/ Madrid 10, 2-B",40.4380872,-3.6760635
+121,Unkasoft Advergaming,Madrid,1,"Nieremberg 8, Bajo A",40.4474363,-3.6714915
+122,citiservi,Madrid,1,"Barquillo 11, 4th Floor",40.42096,-3.69586
+123,Nexway,Madrid,1,C/ Duque de FernÃ¡n NÃºÃ±ez NÂº2 2Âº Oficina 2,40.4142986,-3.7033074
+124,"DAEDALUS - Data, Decisions and Language",Madrid,1,Lopez de Hoyos 15,40.4372542,-3.6866654
+125,"DAEDALUS - Data, Decisions and Language",Madrid,1,Edificio Vallausa II,40.49969,-3.66062
+126,Riverbed Technology,Madrid,1,"Paseo de la Castellana, 135",40.45958,-3.6914
+127,Gennio,Madrid,1,"Diego de LeÃ³n, 47",40.4346935,-3.6782829
+128,Tata Communications,Madrid,1,"Avenida de Europa 4, Bajo A",41.6252901,-4.7261288
+129,Zankyou,Madrid,1,Faraday 7,40.6070897,-3.6912754
+130,Europa Press,Madrid,1,Paseo de la Castellana 210,40.4632,-3.68894
+131,HREF,Madrid,1,"Ramon Fort 8, Block 2, 1C",40.47282,-3.66554
+132,Ohlala! Mobile,Madrid,1,Calle AlcalÃ¡ 302,40.4328978,-3.6496952
+133,Weblogs SL,Madrid,1,"Plaza de Alonso Martinez 7, 1",40.42753,-3.69514
+134,Comunitae,Madrid,1,Calle Nuria 29,40.4905109,-3.7033403
+135,LLONA,Madrid,1,"Cardenal Herrera Oria, 126",40.49048,-3.6971
+136,LLONA,Madrid,1,Cardenal Herrera Oria,40.48933,-3.69987
+137,Seguronline,Madrid,1,"C/ Bravo Murillo, 371, 1Âª",40.4654916,-3.691617
+138,DOMODESK,Valencia,1,C/Alqueria de Benlloch 24,39.4612679,-0.3983456
+139,DOMODESK,Madrid,1,C/Arroyo de Fontarron 53,40.4033217,-3.6510254
+140,ISID,Madrid,1,Calle Serano 77,40.4353746,-3.686534
+141,Sowre,Barcelona,1,Muntaner 231,41.3943671,2.1491951
+142,Sowre,Madrid,1,"guzman el bueno, 133",40.4431637,-3.7125615
+143,Xeridia,Madrid,1,"Camino Cerro de los Gamos, nÂº1",40.46478,-3.80899
+145,IMASTE,Madrid,1,Conde Peñalver 22,40.4272451,-3.6755166
+146,PRISA,Madrid,1,"Gran VÃ­a, 32",40.4203,-3.70311
+147,Tuenti Technologies,Madrid,1,Plaza Cortes 2,40.4158236,-3.696277
+148,PowerVote,Madrid,1,"c/ Diego de leon, 47",40.4346935,-3.6782829
+149,Web Piston,Madrid,1,Alberto Alcocer 24,40.458178,-3.6845894
+150,ASPgems,Madrid,1,Carrera de San Jeronimo 15,40.4165967,-3.6992667
+151,Virgin Play,Madrid,1,"Paseo de la Castellana, 9-11",40.4273082,-3.6895115
+152,Undead Code Studios,Madrid,1,,40.6367104,-3.9980485
+153,IntraWorlds,Madrid,1,"Fuencarral 93, 1d",40.426858,-3.7015237
+154,Tagmore Solutions,Madrid,1,Serrano 16,40.4226918,-3.6883074
+155,Taxi Fares app,Madrid,1,,40.4244585,-3.6990948
+156,ticketea,Madrid,1,Marques de Lema,40.4455155,-3.7061764
+158,I6NET,Madrid,1,"C/ Magallanes, 13",40.4342873,-3.7056763
+159,cost4travel,Madrid,1,"Calle Francisco Jose Arroyo, 6",40.4528711,-3.6149394
+160,Genasys,Madrid,1,C/ Ventura de la Vega 5,40.4161835,-3.6988729
+162,FRV,Madrid,1,Rafael Calvo 42,40.43393,-3.69027
+164,AdLINK Group,Madrid,1,affilinet Espana SLU,40.42307,-3.71193
+165,BuyVIP,Madrid,1,33. Edificio Atica 4 planta 2,40.4167413,-3.7032498
