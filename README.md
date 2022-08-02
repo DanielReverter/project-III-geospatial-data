@@ -15,6 +15,8 @@ You recently created a new company in the GAMING industry. The company will have
 - 1 Maintenance guy that loves basketball
 - 10 Executives
 - 1 CEO/President.
+
+
 As a data engineer you have asked all the employees to show their preferences on where to place the new office. Your goal is to place the new company offices in the best place for the company to grow. You have to find a place that more or less covers all the following requirements (note that it's impossible to cover all requirements, so you have to prioritize at your glance):
 
 - Designers like to go to design talks and share knowledge. There must be some nearby companies that also do design.
@@ -41,5 +43,7 @@ The main directory has 2 subdirectories:
 
 * Output: Contains files created from the original data (enriched and cleaned dataframes, plots, etc.) that are used multiple times through the project.
 * src: Contains python files with all functions created specifically for this analysis.
-​
+
+
 In the root directory there is a Jupyter Notebook file that includes all the code used in the project, explaining the process at the same time
+
